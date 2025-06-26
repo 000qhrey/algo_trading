@@ -130,7 +130,7 @@ CI not wired (out of scope) but `check_status.py` offers a fast local sanity
 
 ##  Demo Video
 
-![Demo Video](https://youtu.be/p5qeZKriw0M)
+https://youtu.be/p5qeZKriw0M
 
 ---
 
